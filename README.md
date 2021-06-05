@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qusaikader
-- 👀 I’m interested in ...
+- 👀 I’m interested in Ml and AI
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on python projects
 - 📫 How to reach me @qusaikaderkader@gmail.com
 
 <!---
