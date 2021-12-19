@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @qusaikader
 - 👀 I’m interested in Ml and AI
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on python projects
+- 🌱 I’m am well versed with Python,C and Java
+- 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @qusaikaderkader@gmail.com
 
 <!---
