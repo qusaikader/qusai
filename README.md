@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me @qusaikaderkader@gmail.com
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=qusaikader)](https://github.com/anuraghazra/github-readme-stats)
+![Qusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=qusaikader&show_icons=true&theme=transparent)
 
 <!---
 qusaikader/qusaikader is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
